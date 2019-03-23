@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Удалить саппорта #{{support.id}}</h1>
+    <form action="{% url 'chat:supdelete' support.id %}" method="post">
+        {% csrf_token %}
+        <input class="btn btn-danger" type="submit" value="Удалить">
+        <a href="{% url 'chat:supports' %}">Вернуться назад</a>
+    </form>
+{% endblock %}

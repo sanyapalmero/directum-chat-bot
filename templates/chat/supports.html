@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Саппорты</h1>
+    <a href="{% url 'chat:supcreate' %}">Добавить саппорта</a>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>№</th>
+                    <th>Имя</th>
+                    <th>Описание</th>
+                    <th>Ключевые слова</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for support in supports %}
+                    <tr>
+                        <td>{{ support.id }}</td>
+                        <td>{{ support.name }}</td>
+                        <td>{{ support.description }}</td>
+                        <td>{{ support.key_words }}</td>
+                        <td>
+                            <a href="{% url 'chat:supedit' support.id %}">Изменить</a> |
+                            <a href="{% url 'chat:supdelete' support.id %}">Удалить</a>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endblock %}

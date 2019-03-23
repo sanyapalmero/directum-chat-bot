@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="chat-window disable-scrollbars">
+    <div class="message">
+        <div class="bot-message">
+            <p>
+                Бот: Вас приветствует бот Джимми :)
+                Введите, пожалуйста, интересущий вас вопрос ниже, и я постараюсь на него ответить.
+            </p>
+        </div>
+    </div>
+</div>
+<div class="input-group">
+    {% csrf_token %}
+    <input id="user-message" name="user-message" class="form-control" placeholder="Write a message">
+    <span class="input-group-btn">
+        <button id="send-message" class="btn btn-primary" type="submit">Отправить</button>
+    </span>
+</div>
+{% endblock %}

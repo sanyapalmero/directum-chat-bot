@@ -1,0 +1,161 @@
+.chat-window {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    border: 1px solid #228f9a;
+    border-radius: 6px;
+    overflow: scroll;
+}
+
+.user-message,
+.bot-message {
+    width: 375px;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.bot-message {
+    position: relative;
+    margin-left: 30px;
+    border: 1px solid #C3CEDE;
+    background: #FFFFFF;
+    color: black;
+}
+
+.bot-message::before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: -2px;
+    left: -4px;
+    width: 27px;
+    height: 17px;
+    background: url("/static/img/part.svg") no-repeat;
+}
+
+.user-message {
+    position: relative;
+    border: 1px solid #BAD5C3;
+    background: #E1FFC7;
+    color: black;
+
+    /* Firefox */
+    margin-left: -moz-calc(100% - 405px);
+    /* WebKit */
+    margin-left: -webkit-calc(100% - 405px);
+    /* Opera */
+    margin-left: -o-calc(100% - 405px);
+    /* Standard */
+    margin-left: calc(100% - 405px);
+}
+
+.user-message::before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: -1px;
+    right: -5px;
+    width: 27px;
+    height: 17px;
+    background: url("/static/img/part_reverse.svg") no-repeat;
+}
+
+.bot-message p,
+.user-message p {
+    margin: 0;
+}
+
+.user-message:last-child,
+.bot-message:last-child {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    border-radius: 15px !important;
+    width: calc(100% - 15px) !important;
+}
+
+.btn-primary {
+    border-radius: 15px !important;
+}
+
+
+
+/* style for index */
+.promo {
+    display: flex;
+    flex-direction: column;
+    width: 1024px;
+    margin: 0 auto;
+    background: url("/static/img/chatbot.png") no-repeat;
+    background-size: 350px auto;
+    background-position: right top;
+}
+
+.left-column {
+    width: 650px;
+}
+
+.main-title {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 55px;
+    letter-spacing: 0.5px;
+}
+
+.details {
+    margin-bottom: 50px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.5em;
+    letter-spacing: 0.5px;
+}
+
+.btn-link,
+.btn-link:hover {
+    padding: 10px 15px;
+    display: inline-block;
+    background-color: #218f9a;
+    border: 1px solid #1f5e89;
+    border-radius: 4px;
+    text-decoration: none;
+    color: white;
+}
+
+.btn-link:hover {
+    background-color: #1e6e75;
+}
+
+
+/* disable scroll */
+.disable-scrollbars::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* Chrome/Safari/Webkit */
+}
+
+.disable-scrollbars {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* IE 10+ */
+}
+
+
+
+/* style for faq page */
+.main-title,
+p {
+    margin: 0;
+}
+.faq-promo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 960px;
+    margin: 0 auto;
+    border-bottom: 2px solid rgba(80, 80, 80, .1);
+}
+
+.faq-title {
+    margin-bottom: 20px;
+}

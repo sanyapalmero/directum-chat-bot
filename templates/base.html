@@ -1,0 +1,38 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="icon" type="image/png" href="{% static 'img/logo.png' %}" />
+    <link rel="stylesheet" href="{% static '/bootstrap/css/bootstrap.min.css' %}"/>
+    <link rel="stylesheet" href="{% static 'css/site.css' %}">
+    <script src="{% static '/bootstrap/js/jquery.js' %}"></script>
+    <script src="{% static '/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/site.js' %}"></script>
+    <title>Chatbot</title>
+</head>
+<body>
+    <div style="border:none; border-radius: 0;"  class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="collapse navbar-collapse" id="navbar-main">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="{% url 'chat:index' %}">
+                        <img style="height:40px; margin-top: -10px;" src="/static/img/logo.png">
+                    </a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li><a href="{% url 'chat:index' %}">Главная</a></li>
+                    <li><a href="{% url 'chat:chat' %}">Чат</a></li>
+                    <li><a href="{% url 'chat:supports' %}">Саппорты</a></li>
+                    <li><a href="{% url 'chat:faq' %}">FAQ</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        {% block content %}{% endblock %}
+    </div>
+</body>
+</html>

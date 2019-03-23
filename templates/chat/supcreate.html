@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Добавить саппорта</h1>
+    <form action="{% url 'chat:supcreate' %}" method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            <label>Имя</label>
+            <input class="form-control" type="text" name="name" required>
+        </div>
+        <div class="form-group">
+            <label>Описание</label>
+            <input class="form-control" type="text" name="description" required>
+        </div>
+        <div class="form-group">
+            <label>Ключевые слова через запятую</label>
+            <textarea rows="5" class="form-control" name="key_words" required></textarea>
+        </div>
+        <input class="btn btn-primary" type="submit" value="Добавить">
+    </form>
+{% endblock %}

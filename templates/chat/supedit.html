@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Обновить саппорта #{{support.id}}</h1>
+    <form action="{% url 'chat:supedit' support.id %}" method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            <label>Имя</label>
+            <input class="form-control" type="text" name="name" value="{{support.name}}" required>
+        </div>
+        <div class="form-group">
+            <label>Описание</label>
+            <input class="form-control" type="text" name="description" value="{{support.description}}" required>
+        </div>
+        <div class="form-group">
+            <label>Ключевые слова через запятую</label>
+            <textarea rows="5" class="form-control" name="key_words" required>{{support.key_words}}</textarea>
+        </div>
+        <input class="btn btn-primary" type="submit" value="Обновить">
+        <a href="{% url 'chat:supports' %}">Вернуться назад</a>
+    </form>
+{% endblock %}

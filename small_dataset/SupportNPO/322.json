@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "сеть или сервера сдохли?"
+        },
+        {
+            "sender": "support",
+            "message": "сеть"
+        },
+        {
+            "sender": "user",
+            "message": "техкас не работает на этаже только или у всех?"
+        },
+        {
+            "sender": "support",
+            "message": "у всех"
+        },
+        {
+            "sender": "user",
+            "message": "ок, видимо ждем"
+        }
+    ]
+}

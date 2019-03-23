@@ -1,0 +1,21 @@
+{
+    "support": "support opr",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. собери пожалуйста инсталляторы под версию"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста."
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "я думаю вы вкурсе что сервера каса и почты лежат"
+        },
+        {
+            "sender": "support",
+            "message": "в курсе"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! <person> работает?"
+        },
+        {
+            "sender": "support",
+            "message": "привет вообще работает, но пока в отпуске"
+        },
+        {
+            "sender": "user",
+            "message": "не могу скачать с <url> почему?"
+        },
+        {
+            "sender": "support",
+            "message": "у нас проблемы с сетью сейчас, скорее всего из-за этого"
+        },
+        {
+            "sender": "user",
+            "message": "ок, спасибо."
+        }
+    ]
+}

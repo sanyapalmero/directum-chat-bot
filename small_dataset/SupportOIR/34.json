@@ -1,0 +1,17 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "у них форма на сайте есть, но обращения не приходят в"
+        },
+        {
+            "sender": "support",
+            "message": "посмотри логи сервиса"
+        },
+        {
+            "sender": "user",
+            "message": "подключен удаленно смотрю"
+        }
+    ]
+}

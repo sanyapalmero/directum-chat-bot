@@ -1,0 +1,17 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "новая беседа"
+        },
+        {
+            "sender": "support",
+            "message": "и новая и старые есть."
+        },
+        {
+            "sender": "user",
+            "message": "ну ладно тогда"
+        }
+    ]
+}

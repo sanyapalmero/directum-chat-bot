@@ -1,0 +1,13 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "приве выгрузите мне отчет по абонентам плиз"
+        },
+        {
+            "sender": "user",
+            "message": "привет выгрузите мне отчет по абонентам плиз"
+        }
+    ]
+}

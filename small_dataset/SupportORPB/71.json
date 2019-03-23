@@ -1,0 +1,81 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "метод который формирует список для вывода в контрол веба список документов"
+        },
+        {
+            "sender": "support",
+            "message": "его дёргает веб?"
+        },
+        {
+            "sender": "user",
+            "message": "ага"
+        },
+        {
+            "sender": "support",
+            "message": "вызови его в скрипте на перед удалением."
+        },
+        {
+            "sender": "user",
+            "message": "(.(\"ид\").); вот так изменил верная строчка была удалена"
+        },
+        {
+            "sender": "support",
+            "message": "хм. запиши трэйс удаления из веб, и удаления через"
+        },
+        {
+            "sender": "user",
+            "message": "а трейсы лучше письмом?"
+        },
+        {
+            "sender": "support",
+            "message": "в буфер свой положи и сюда ссылку можно."
+        },
+        {
+            "sender": "user",
+            "message": "у нас разные буферы"
+        },
+        {
+            "sender": "support",
+            "message": "а, точно) тогда да, почтой."
+        },
+        {
+            "sender": "user",
+            "message": "личной?"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "отправил"
+        },
+        {
+            "sender": "support",
+            "message": "так. профайлер у меня староват, можешь ещё скинуть ок"
+        },
+        {
+            "sender": "user",
+            "message": "эту ку найти?"
+        },
+        {
+            "sender": "support",
+            "message": "да. тут скорее всего лежит."
+        },
+        {
+            "sender": "support",
+            "message": "версия у тебя выше будет."
+        },
+        {
+            "sender": "user",
+            "message": "да, у меня кс в смысле отправил уже"
+        },
+        {
+            "sender": "support",
+            "message": "да, не заметил."
+        }
+    ]
+}

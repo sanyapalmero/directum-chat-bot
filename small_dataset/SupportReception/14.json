@@ -1,0 +1,17 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет у нас <person> <person> на неделю на больничный вышел. ему отстутствие бы оформить"
+        },
+        {
+            "sender": "support",
+            "message": "привет. отсутствие по пятницу?"
+        },
+        {
+            "sender": "user",
+            "message": "по птн включительно замещение можно на меня перебросить"
+        }
+    ]
+}

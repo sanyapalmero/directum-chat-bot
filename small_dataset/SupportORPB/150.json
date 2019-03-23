@@ -1,0 +1,45 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "здравствуй подскажи пжл <url> где-то в системе используется отличный от уровень изоляции?"
+        },
+        {
+            "sender": "support",
+            "message": "привет. чуть позже."
+        },
+        {
+            "sender": "user",
+            "message": "пинг?"
+        },
+        {
+            "sender": "support",
+            "message": "тут, но пока очередь."
+        },
+        {
+            "sender": "user",
+            "message": "окей"
+        },
+        {
+            "sender": "user",
+            "message": "пинг?"
+        },
+        {
+            "sender": "support",
+            "message": "сегодня уже успею."
+        },
+        {
+            "sender": "user",
+            "message": "успеешь или не успеешь?"
+        },
+        {
+            "sender": "support",
+            "message": "не успею"
+        },
+        {
+            "sender": "user",
+            "message": "окей"
+        }
+    ]
+}

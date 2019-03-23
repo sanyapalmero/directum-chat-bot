@@ -1,0 +1,53 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! нажимаю в работнике \"сводка\" все зависает, это только у меня?"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "проявляется стабильно"
+        },
+        {
+            "sender": "support",
+            "message": "подскажите имя компа"
+        },
+        {
+            "sender": "user",
+            "message": "цц у себя посмотри, пжл"
+        },
+        {
+            "sender": "support",
+            "message": "у меня прав нет на отчет"
+        },
+        {
+            "sender": "user",
+            "message": "к тоу вас там из админов есть или у мезрина каждый раз вышибаю"
+        },
+        {
+            "sender": "support",
+            "message": "есть подозрение, что зависает не техкас, а висит ворд"
+        },
+        {
+            "sender": "user",
+            "message": "попробую чуть позже"
+        },
+        {
+            "sender": "support",
+            "message": "а вот, нашел у кого попробовать. тоже подвис"
+        },
+        {
+            "sender": "user",
+            "message": "нет все равно виснет"
+        },
+        {
+            "sender": "support",
+            "message": "да, разбираемся"
+        }
+    ]
+}

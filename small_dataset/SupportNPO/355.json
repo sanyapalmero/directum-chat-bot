@@ -1,0 +1,29 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "добрый день! подскажите, где можно взять бумагу в принтер на этаж?"
+        },
+        {
+            "sender": "support",
+            "message": "добрый день. обычно в тумбочке под принтером"
+        },
+        {
+            "sender": "user",
+            "message": "там все пусто"
+        },
+        {
+            "sender": "support",
+            "message": "тогда на ресепшене"
+        },
+        {
+            "sender": "user",
+            "message": "ок, сейчас приду"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        }
+    ]
+}

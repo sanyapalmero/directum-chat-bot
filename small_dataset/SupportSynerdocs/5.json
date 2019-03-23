@@ -1,0 +1,13 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "трн тоже, да?"
+        },
+        {
+            "sender": "support",
+            "message": "для того, чтобы включить пэп пользователю, надо указать снилс и номер телефона"
+        }
+    ]
+}

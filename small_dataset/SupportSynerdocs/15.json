@@ -1,0 +1,29 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "добрый день, на тестовом сервисе по организации с инн кпп можно включить возможность отправлять документы?"
+        },
+        {
+            "sender": "support",
+            "message": "ооо жрп"
+        },
+        {
+            "sender": "user",
+            "message": "да"
+        },
+        {
+            "sender": "support",
+            "message": "включено"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

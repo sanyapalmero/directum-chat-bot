@@ -1,0 +1,17 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. подскажи, пожалуйста, какая версия должна быть у библиотеки интеграции для веба"
+        },
+        {
+            "sender": "support",
+            "message": "привет,"
+        },
+        {
+            "sender": "user",
+            "message": "понял, спасибо."
+        }
+    ]
+}

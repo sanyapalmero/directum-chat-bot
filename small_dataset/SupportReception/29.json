@@ -1,0 +1,37 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, подскажите, пожалуйста. я завтра на внешний семинар ухожу, надо замещение настроить, в том числе и почту, как это сделать?"
+        },
+        {
+            "sender": "support",
+            "message": "привет. кто тебя будет замещать?"
+        },
+        {
+            "sender": "user",
+            "message": "<person> <person>"
+        },
+        {
+            "sender": "support",
+            "message": "только на завтра?"
+        },
+        {
+            "sender": "user",
+            "message": "да, только один день"
+        },
+        {
+            "sender": "support",
+            "message": "готово"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        }
+    ]
+}

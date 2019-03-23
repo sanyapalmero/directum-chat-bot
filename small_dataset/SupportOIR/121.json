@@ -1,0 +1,17 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "юль, привет! интересная бага у нас появилась позвоню?"
+        },
+        {
+            "sender": "support",
+            "message": "в личку"
+        },
+        {
+            "sender": "user",
+            "message": "ага"
+        }
+    ]
+}

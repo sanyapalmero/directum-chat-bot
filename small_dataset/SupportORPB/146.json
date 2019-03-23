@@ -1,0 +1,13 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "алексей, привет! есть пять мин? у меня вопрос по сс"
+        },
+        {
+            "sender": "support",
+            "message": "привет. нет, пока времени нет."
+        }
+    ]
+}

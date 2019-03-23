@@ -1,0 +1,25 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "привет, андрей."
+        },
+        {
+            "sender": "user",
+            "message": "по данному инн включите что нужно по промокоду там снятие блокровки на отправку будет"
+        },
+        {
+            "sender": "support",
+            "message": "готово"
+        },
+        {
+            "sender": "user",
+            "message": "спасиб"
+        }
+    ]
+}

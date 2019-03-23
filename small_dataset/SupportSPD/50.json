@@ -1,0 +1,17 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, ваши сервера поднимаются? кто то над этим работает"
+        },
+        {
+            "sender": "support",
+            "message": "привет, всё ок теперь?"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

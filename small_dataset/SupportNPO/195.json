@@ -1,0 +1,21 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! есть проблемка с запуском клиента это к вам или в спд?"
+        },
+        {
+            "sender": "support",
+            "message": "привет если именно то спд"
+        },
+        {
+            "sender": "user",
+            "message": "понял. спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

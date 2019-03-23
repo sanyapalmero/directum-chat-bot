@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. похоже сеть легла, внутренние ресурсы недостпны"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        }
+    ]
+}

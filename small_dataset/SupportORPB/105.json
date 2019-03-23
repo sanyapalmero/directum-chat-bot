@@ -1,0 +1,13 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, погонял вчера документ, открывается как и в случае с очень быстро"
+        },
+        {
+            "sender": "support",
+            "message": "привет. чуть позже."
+        }
+    ]
+}

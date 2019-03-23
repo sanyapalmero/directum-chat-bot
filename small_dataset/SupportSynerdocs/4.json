@@ -1,0 +1,13 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "я сейчас уезжаю в аэропорт. чуть позже появлюсь, продолжу"
+        },
+        {
+            "sender": "support",
+            "message": "ок"
+        }
+    ]
+}

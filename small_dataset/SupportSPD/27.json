@@ -1,0 +1,13 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "ок, понял. попробуем, спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "ага пож"
+        }
+    ]
+}

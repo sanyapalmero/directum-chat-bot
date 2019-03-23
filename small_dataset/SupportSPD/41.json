@@ -1,0 +1,33 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "добрый день!"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "такое дело должно прейти обращение от <person> андрея он переслал письмо от снежной королевы кто то уже закрывал похожее обращение на прошлой неделе, от снежной королевы знать бы кто"
+        },
+        {
+            "sender": "support",
+            "message": "знаю:)"
+        },
+        {
+            "sender": "user",
+            "message": "чтобы с ним поговорить, и востановить последовательность а, это ты был?"
+        },
+        {
+            "sender": "support",
+            "message": "<person> <person>"
+        },
+        {
+            "sender": "user",
+            "message": "ок"
+        }
+    ]
+}

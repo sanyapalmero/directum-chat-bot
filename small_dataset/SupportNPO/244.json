@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет у нас в переговорке техкас вырубился и не запускает сервер недоступен"
+        },
+        {
+            "sender": "support",
+            "message": "привет. сеть упала"
+        },
+        {
+            "sender": "user",
+            "message": "везде сейчас тка? или мне повезло? ааа яяясненько"
+        },
+        {
+            "sender": "user",
+            "message": "еще не подняли"
+        },
+        {
+            "sender": "support",
+            "message": "нет"
+        }
+    ]
+}

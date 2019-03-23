@@ -1,0 +1,17 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "support",
+            "message": "абонент по этому номеру к телефон не подходит."
+        },
+        {
+            "sender": "user",
+            "message": "попробую позвонить через час. подключу вас в моменте разговора"
+        },
+        {
+            "sender": "support",
+            "message": "ок"
+        }
+    ]
+}

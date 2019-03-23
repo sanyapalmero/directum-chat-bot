@@ -1,0 +1,13 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "добрый день! ко мне в светлакова катя должна придти. отправьте ее в к."
+        },
+        {
+            "sender": "support",
+            "message": "добрый день. хорошо"
+        }
+    ]
+}

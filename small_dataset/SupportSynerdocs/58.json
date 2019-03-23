@@ -1,0 +1,17 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "слушай, а у нас уже есть те, кто вводил промокод ооо новый дом"
+        },
+        {
+            "sender": "support",
+            "message": "ни одной"
+        },
+        {
+            "sender": "user",
+            "message": "ок понял"
+        }
+    ]
+}

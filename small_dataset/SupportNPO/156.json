@@ -1,0 +1,21 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "а ты можешь помочь мне в настройке до мурманской думы?"
+        },
+        {
+            "sender": "support",
+            "message": "напиши обращение с реквизитами, по линку это не делается"
+        },
+        {
+            "sender": "user",
+            "message": "понял, ок спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

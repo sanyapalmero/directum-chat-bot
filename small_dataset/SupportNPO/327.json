@@ -1,0 +1,41 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, у меня не приходят письма на почту"
+        },
+        {
+            "sender": "support",
+            "message": "привет какие?"
+        },
+        {
+            "sender": "user",
+            "message": "от заказчика внутри не проверял"
+        },
+        {
+            "sender": "support",
+            "message": "от какого?"
+        },
+        {
+            "sender": "user",
+            "message": "отправка была и сегодня"
+        },
+        {
+            "sender": "support",
+            "message": "возможно в спам попало. раньше с этого адреса письма приходили?"
+        },
+        {
+            "sender": "user",
+            "message": "да, раньше все ок было"
+        },
+        {
+            "sender": "support",
+            "message": "посмотрим не сервере но правда только через полчаса где-то"
+        },
+        {
+            "sender": "user",
+            "message": "ок, спасиб"
+        }
+    ]
+}

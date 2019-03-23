@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет а бложик работает?"
+        },
+        {
+            "sender": "support",
+            "message": "привет не работает"
+        }
+    ]
+}

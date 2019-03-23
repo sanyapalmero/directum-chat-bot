@@ -1,0 +1,17 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! закрой, пожалуйста, замещение: <url> у меня не должно остаться замещения эли почему-то создалось до"
+        },
+        {
+            "sender": "support",
+            "message": "привет. закрыла"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо!"
+        }
+    ]
+}

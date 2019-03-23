@@ -1,0 +1,13 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "благодарю за помощь!"
+        },
+        {
+            "sender": "support",
+            "message": "аха пожта"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! не могу выполнить задачу <url> <url> прошу поддержки"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "попробуй еще раз выполнить"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо! получилось"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, на <url> <url> небольшая опечатка в тексте, к кому можно обратиться, чтобы поправили?"
+        },
+        {
+            "sender": "support",
+            "message": "привет. напиши <person> зайцеву, он поможет"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

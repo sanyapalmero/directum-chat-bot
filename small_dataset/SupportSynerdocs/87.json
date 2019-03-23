@@ -1,0 +1,29 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! можно мне разрешить отправку документов на сервисе обмена ооо жрп"
+        },
+        {
+            "sender": "user",
+            "message": "инн"
+        },
+        {
+            "sender": "support",
+            "message": "это на тестовом? привет"
+        },
+        {
+            "sender": "user",
+            "message": "да"
+        },
+        {
+            "sender": "support",
+            "message": "готово"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо)"
+        }
+    ]
+}

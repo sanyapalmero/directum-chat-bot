@@ -1,0 +1,13 @@
+{
+    "support": "support mkdo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "<person> привет. встреча у нас через минут"
+        },
+        {
+            "sender": "support",
+            "message": "привет, ага"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! тут у нас новый сотрудник, надо помочь войти в систему"
+        },
+        {
+            "sender": "support",
+            "message": "привет ок"
+        }
+    ]
+}

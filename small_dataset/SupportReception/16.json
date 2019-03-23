@@ -1,0 +1,29 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "машина тут уже?"
+        },
+        {
+            "sender": "support",
+            "message": "да"
+        },
+        {
+            "sender": "user",
+            "message": "ок"
+        },
+        {
+            "sender": "support",
+            "message": "ключи занести или идете?"
+        },
+        {
+            "sender": "user",
+            "message": "пойдем минут через"
+        },
+        {
+            "sender": "support",
+            "message": "ок"
+        }
+    ]
+}

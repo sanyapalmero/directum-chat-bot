@@ -1,0 +1,29 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "даров)"
+        },
+        {
+            "sender": "user",
+            "message": "а по вчерашнему волейболу по поводу наград к кому обращаться?"
+        },
+        {
+            "sender": "support",
+            "message": "напиши масленниковой алине, или к ней или она подскажет"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо!"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста)"
+        }
+    ]
+}

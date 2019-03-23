@@ -1,0 +1,49 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет) <person> анатольевна позвоните пожалуйста ей через минутки, нужно подключить к сервису, есть эп и установлен ждет звонка тп не нужен"
+        },
+        {
+            "sender": "support",
+            "message": "звоню"
+        },
+        {
+            "sender": "user",
+            "message": "ок)"
+        },
+        {
+            "sender": "support",
+            "message": "инн скажи их позвонил, подключил их"
+        },
+        {
+            "sender": "user",
+            "message": "хорошо)спасибо, а инн тогда зачем еще?"
+        },
+        {
+            "sender": "support",
+            "message": "а не случайно?"
+        },
+        {
+            "sender": "user",
+            "message": "ой, подожди"
+        },
+        {
+            "sender": "support",
+            "message": "мы регистрируем обращения пользователей"
+        },
+        {
+            "sender": "user",
+            "message": "да"
+        },
+        {
+            "sender": "support",
+            "message": "всё, ок)"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

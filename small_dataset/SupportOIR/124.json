@@ -1,0 +1,17 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "юль, привет! есть минутка подсказать?"
+        },
+        {
+            "sender": "support",
+            "message": "привет,давай мин через"
+        },
+        {
+            "sender": "user",
+            "message": "ок)"
+        }
+    ]
+}

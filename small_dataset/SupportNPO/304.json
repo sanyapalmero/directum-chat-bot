@@ -1,0 +1,37 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! у меня истекла лицензия на криптопро. поделитесь, пожалуйста, ключом"
+        },
+        {
+            "sender": "support",
+            "message": "привет для чего и где крипто используется?"
+        },
+        {
+            "sender": "user",
+            "message": "работаю с тестовыми стендами и synerdocs а что значит \"где\"?) на рабочем компе..."
+        },
+        {
+            "sender": "support",
+            "message": "да, как спрашивал про комп или виртуалку. какая версия?"
+        },
+        {
+            "sender": "user",
+            "message": "криптопро"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "спасибо!"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

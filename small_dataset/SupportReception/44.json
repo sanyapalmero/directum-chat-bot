@@ -1,0 +1,21 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "а ты точно добавила, что-то мне все равно показывает только три недели:("
+        },
+        {
+            "sender": "support",
+            "message": "перезагрузись я точно добавила"
+        },
+        {
+            "sender": "user",
+            "message": "уже"
+        },
+        {
+            "sender": "support",
+            "message": "сек я еще раз проверю"
+        }
+    ]
+}

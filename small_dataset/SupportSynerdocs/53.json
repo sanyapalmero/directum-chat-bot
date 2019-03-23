@@ -1,0 +1,97 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "были сегодня ошибки от лифанова <person> си"
+        },
+        {
+            "sender": "user",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "привет на этой неделе от лифановой ошибок не было"
+        },
+        {
+            "sender": "user",
+            "message": "уверен? а я что то другое уже хотел спроить"
+        },
+        {
+            "sender": "support",
+            "message": "а по вельветшуз одна есть в"
+        },
+        {
+            "sender": "support",
+            "message": "да, проверил всё, ошибок не падало от лифановой"
+        },
+        {
+            "sender": "user",
+            "message": "а какая"
+        },
+        {
+            "sender": "support",
+            "message": "вельветшуз похоже пароль поменяли для входа в лк"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "да уже скинул вам ошибку"
+        },
+        {
+            "sender": "support",
+            "message": "да, видел, но пароль то кто знает?"
+        },
+        {
+            "sender": "user",
+            "message": "я им уже скидывал"
+        },
+        {
+            "sender": "support",
+            "message": "там же на определённый надо поменять"
+        },
+        {
+            "sender": "user",
+            "message": "его они не восстановили видимо или пользак другой не знаю сколько у вельвет пользователей?"
+        },
+        {
+            "sender": "support",
+            "message": "лифанова им надо рекомендации прошлые продублировать и уточнить, поменяли ли они пароль на нужный"
+        },
+        {
+            "sender": "user",
+            "message": "какой логин"
+        },
+        {
+            "sender": "support",
+            "message": "ьгдшглщмф"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "ок ща ещё раз скину у вас же был вроде погоди так ты мне и скидывал шаблон письма как восстановить пасс"
+        },
+        {
+            "sender": "support",
+            "message": "да)"
+        },
+        {
+            "sender": "user",
+            "message": "видимо они это самое бобо"
+        },
+        {
+            "sender": "support",
+            "message": "ну а кто виноват и что делать?"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "смените, пжста инн поменять на телефон для получения смс"
+        },
+        {
+            "sender": "support",
+            "message": "сейчас изменим"
+        },
+        {
+            "sender": "user",
+            "message": "ок"
+        },
+        {
+            "sender": "support",
+            "message": "номер изменен"
+        }
+    ]
+}

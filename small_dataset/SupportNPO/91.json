@@ -1,0 +1,17 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. у меня аура и померли. внешний интернет есть"
+        },
+        {
+            "sender": "support",
+            "message": "привет. проблемы с сетью"
+        },
+        {
+            "sender": "user",
+            "message": "ясно, спасибо"
+        }
+    ]
+}

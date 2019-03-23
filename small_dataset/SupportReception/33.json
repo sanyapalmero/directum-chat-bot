@@ -1,0 +1,21 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. отметьте пожалуйста что я на больничном до больничный будет"
+        },
+        {
+            "sender": "support",
+            "message": "привет а замещающий будет?"
+        },
+        {
+            "sender": "user",
+            "message": "можно сделать ванюшкина максима"
+        },
+        {
+            "sender": "support",
+            "message": "спасиюо"
+        }
+    ]
+}

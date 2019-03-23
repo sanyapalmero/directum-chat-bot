@@ -1,0 +1,13 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет больничный вам приносить?"
+        },
+        {
+            "sender": "support",
+            "message": "привет. к нам)"
+        }
+    ]
+}

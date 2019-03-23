@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "почему то на хомяка не заходит"
+        },
+        {
+            "sender": "support",
+            "message": "он пока что не восстановлен) как и блоги"
+        }
+    ]
+}

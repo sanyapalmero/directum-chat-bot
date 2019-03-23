@@ -1,0 +1,17 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет кабенет проблемы с доступом к внутр сервисам"
+        },
+        {
+            "sender": "support",
+            "message": "привет. это у всех"
+        },
+        {
+            "sender": "user",
+            "message": "оутлук не может подключитсья, аура ок"
+        }
+    ]
+}

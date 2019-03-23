@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "с сетью проблемы решили? что-то подтормаживает все"
+        },
+        {
+            "sender": "support",
+            "message": "не до конца"
+        }
+    ]
+}

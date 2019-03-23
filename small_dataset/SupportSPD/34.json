@@ -1,0 +1,13 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! подскажи, пожалуйста, где найти дистрибутив фх под директум"
+        },
+        {
+            "sender": "support",
+            "message": "привет!"
+        }
+    ]
+}

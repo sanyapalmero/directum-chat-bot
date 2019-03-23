@@ -1,0 +1,17 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "инн звонил клиент не удалось перевести"
+        },
+        {
+            "sender": "user",
+            "message": "подходит ли версия с к ир тп оплачен всё норм"
+        },
+        {
+            "sender": "support",
+            "message": "да"
+        }
+    ]
+}

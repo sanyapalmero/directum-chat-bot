@@ -1,0 +1,21 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "что-то этот проксик тоже не работает"
+        },
+        {
+            "sender": "support",
+            "message": "другого к сожалениею нет"
+        },
+        {
+            "sender": "user",
+            "message": "нашим фаерволом не может блокироваться?"
+        },
+        {
+            "sender": "support",
+            "message": "нет. это на стороне провайдера"
+        }
+    ]
+}

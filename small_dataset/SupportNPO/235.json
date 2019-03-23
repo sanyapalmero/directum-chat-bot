@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! у нас пишет что принтер не в сети ,а он очень нужен можно его как то подключить?"
+        },
+        {
+            "sender": "support",
+            "message": "привет разбираемся с этим"
+        },
+        {
+            "sender": "user",
+            "message": "окей("
+        },
+        {
+            "sender": "support",
+            "message": "вроде заработали"
+        },
+        {
+            "sender": "user",
+            "message": "првоерю спасибо!"
+        }
+    ]
+}

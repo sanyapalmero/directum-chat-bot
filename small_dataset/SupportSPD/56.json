@@ -1,0 +1,21 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет саппорт не могу найти документ с по можете подсказать?"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "уже нашел, спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "а ок"
+        }
+    ]
+}

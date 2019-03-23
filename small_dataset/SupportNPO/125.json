@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "можно мы все таки попросим помочь нам настроить проектор. в кабинете. пожалуйста!"
+        },
+        {
+            "sender": "support",
+            "message": "а вы нашли к чему подключать?"
+        },
+        {
+            "sender": "user",
+            "message": "к <person> жене, к компьютеру. такой пока план"
+        },
+        {
+            "sender": "support",
+            "message": "<person> подойдет"
+        },
+        {
+            "sender": "user",
+            "message": "ок, спасибо!"
+        }
+    ]
+}

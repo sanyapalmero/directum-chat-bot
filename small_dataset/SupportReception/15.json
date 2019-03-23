@@ -1,0 +1,57 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "а можно подарок с детского праздника забронировать и забрать в пнд?"
+        },
+        {
+            "sender": "support",
+            "message": "ага передали уже"
+        },
+        {
+            "sender": "user",
+            "message": "а че там есть?"
+        },
+        {
+            "sender": "support",
+            "message": "хм ну опистаь это сложно увидишь фрисби и какие то штуки типа фрисби, но поменьше"
+        },
+        {
+            "sender": "user",
+            "message": "и все?"
+        },
+        {
+            "sender": "support",
+            "message": "есть скакалка да"
+        },
+        {
+            "sender": "user",
+            "message": "вот давай фрисби и скакалку"
+        },
+        {
+            "sender": "support",
+            "message": "ха"
+        },
+        {
+            "sender": "user",
+            "message": "детей двое так что не ха"
+        },
+        {
+            "sender": "support",
+            "message": "ну я отложу"
+        },
+        {
+            "sender": "user",
+            "message": "пасибки"
+        }
+    ]
+}

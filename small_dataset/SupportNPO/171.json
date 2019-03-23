@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. реплика ходит в мск? такое ощущение что с утра не работает?"
+        },
+        {
+            "sender": "support",
+            "message": "привет проблемы с ней"
+        },
+        {
+            "sender": "user",
+            "message": "какие прогнозы?"
+        },
+        {
+            "sender": "support",
+            "message": "если что-то срочное, то лучше смотреть в терминале"
+        },
+        {
+            "sender": "user",
+            "message": "понятно"
+        }
+    ]
+}

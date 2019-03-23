@@ -1,0 +1,17 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "ааа, помоги, пожалуйста! уже проеххали)"
+        },
+        {
+            "sender": "support",
+            "message": "еее, круто!"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

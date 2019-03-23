@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! не работают сводные таблицы где читать про это"
+        },
+        {
+            "sender": "support",
+            "message": "привет <url> <url>"
+        }
+    ]
+}

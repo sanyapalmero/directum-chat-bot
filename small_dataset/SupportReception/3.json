@@ -1,0 +1,21 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "какой у нас основной телефон? вам как позвонить?"
+        },
+        {
+            "sender": "support",
+            "message": "с городского из отдела можно набрать"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

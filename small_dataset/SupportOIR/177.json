@@ -1,0 +1,17 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "коллеги, а старые блоги есть еще где-то? нужно почитать каменты к этому блогу <url> <url>"
+        },
+        {
+            "sender": "support",
+            "message": "привет, по блогам к тане шергиной"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

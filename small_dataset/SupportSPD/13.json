@@ -1,0 +1,37 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет подскажи, я пересылал письмо с вопросов от клиента в почте компания рмк вы его видите?"
+        },
+        {
+            "sender": "support",
+            "message": "привет на"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        },
+        {
+            "sender": "support",
+            "message": "надо на просто)"
+        },
+        {
+            "sender": "user",
+            "message": "переслал на этот адрес"
+        },
+        {
+            "sender": "support",
+            "message": "с этого адреса служба захвата сработает и увидим"
+        },
+        {
+            "sender": "user",
+            "message": "понял спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста)"
+        }
+    ]
+}

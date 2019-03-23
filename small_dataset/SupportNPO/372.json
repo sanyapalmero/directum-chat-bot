@@ -1,0 +1,21 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! у меня не техкас завис, я его закрыла из диспетчера задач и теперь он не загружается"
+        },
+        {
+            "sender": "support",
+            "message": "привет дай доступ"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

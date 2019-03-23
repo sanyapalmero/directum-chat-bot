@@ -1,0 +1,21 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "друзья! вы увидели мое сообщение?"
+        },
+        {
+            "sender": "support",
+            "message": "видели."
+        },
+        {
+            "sender": "user",
+            "message": "ок спасибо"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        }
+    ]
+}

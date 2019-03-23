@@ -1,0 +1,29 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет."
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "в папке буфера есть файл который я не могу удалить, т.к. типа кем-то используется можешь помочь узнать мне, кем он используется?"
+        },
+        {
+            "sender": "support",
+            "message": "<person> <person>"
+        },
+        {
+            "sender": "user",
+            "message": "ок, спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

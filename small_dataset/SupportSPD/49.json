@@ -1,0 +1,21 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, чет у меня задачи не ходят в базе разработки мгфомса, с ней все в порядтке?"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "задачи пошли видимо что то сделали"
+        },
+        {
+            "sender": "support",
+            "message": "замечательно, что пошли"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "добрый день. \"задача \"оценка работы наставника <person> и.ю.\" была приостановлена из-за ошибки. обратитесь к администратору.\" это сюда?"
+        },
+        {
+            "sender": "support",
+            "message": "добрый день. да"
+        },
+        {
+            "sender": "support",
+            "message": "укажи ссылку на задачу и имя своего компьютера"
+        },
+        {
+            "sender": "user",
+            "message": "<url>"
+        },
+        {
+            "sender": "support",
+            "message": "на задачу, не уведомление"
+        },
+        {
+            "sender": "user",
+            "message": "<url>"
+        },
+        {
+            "sender": "support",
+            "message": "поправили задачу"
+        },
+        {
+            "sender": "user",
+            "message": "мне нужно что-то делать?"
+        },
+        {
+            "sender": "support",
+            "message": "нет"
+        },
+        {
+            "sender": "user",
+            "message": "понятно, большое спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, включите виртуалку"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "попробуй сейчас"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

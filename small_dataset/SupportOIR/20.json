@@ -1,0 +1,29 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "ок из того что подозрительно вот"
+        },
+        {
+            "sender": "support",
+            "message": "а результат выполнения скрипта"
+        },
+        {
+            "sender": "user",
+            "message": "по отдельности я не пробовал выполнять, пока только профайлинг для анализа записал"
+        },
+        {
+            "sender": "user",
+            "message": "по профайлингу ничего странного нет?"
+        },
+        {
+            "sender": "support",
+            "message": "тебе <person> т. щас отпишет"
+        },
+        {
+            "sender": "user",
+            "message": "хорошо"
+        }
+    ]
+}

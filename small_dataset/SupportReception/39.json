@@ -1,0 +1,45 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет а у вас есть дырокол?"
+        },
+        {
+            "sender": "support",
+            "message": "да привет упс забрали"
+        },
+        {
+            "sender": "user",
+            "message": "и не вернули?"
+        },
+        {
+            "sender": "support",
+            "message": "блин вот так бывает"
+        },
+        {
+            "sender": "user",
+            "message": "известно кто забрал?"
+        },
+        {
+            "sender": "support",
+            "message": "нет)"
+        },
+        {
+            "sender": "user",
+            "message": "прикольно))"
+        },
+        {
+            "sender": "support",
+            "message": "есть в <person> <person> <person> у вас есть дырокол? <person> <person> да в бухг обратись туда"
+        },
+        {
+            "sender": "user",
+            "message": "окей, спасибо))"
+        },
+        {
+            "sender": "support",
+            "message": "но они могут скоро уйти) так что не тяни"
+        }
+    ]
+}

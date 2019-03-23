@@ -1,0 +1,29 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, уточни плиз скем настроен роуминг по след. компаниям: это инн"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "не наш абонент, а тензора. роуминг с марком."
+        },
+        {
+            "sender": "user",
+            "message": "а по соатльынм"
+        },
+        {
+            "sender": "support",
+            "message": "это абонент тензора роуминг с марком тоже тензор и тоже марк"
+        },
+        {
+            "sender": "user",
+            "message": "оки, спасиб"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "добрый день! нам надо завтра на северный к можно, чтобы сд приехал где-то к"
+        },
+        {
+            "sender": "support",
+            "message": "добрый вечер передам секретарям"
+        }
+    ]
+}

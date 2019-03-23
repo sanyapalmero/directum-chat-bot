@@ -1,0 +1,21 @@
+{
+    "support": "support mkdo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, где можно найти дистрибудетив коннектора к диадоку для"
+        },
+        {
+            "sender": "support",
+            "message": "привет. коннектор к диадок лежит тут:"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пож-та"
+        }
+    ]
+}

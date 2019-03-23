@@ -1,0 +1,45 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "дратути"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "у нас сетка легла, и никто не сознаётся, написали вам об этом или нет"
+        },
+        {
+            "sender": "support",
+            "message": "ага, в курсе"
+        },
+        {
+            "sender": "user",
+            "message": "атлищна) ждём восстановление)"
+        },
+        {
+            "sender": "user",
+            "message": "а когда сеть полностью восстановится?"
+        },
+        {
+            "sender": "support",
+            "message": "не известно"
+        },
+        {
+            "sender": "user",
+            "message": "но вы же напишете письмо или что-то в этом роде? или мне просто периодически тыкать свои вм палочкой?"
+        },
+        {
+            "sender": "support",
+            "message": "напишу тебе"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        }
+    ]
+}

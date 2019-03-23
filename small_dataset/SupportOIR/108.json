@@ -1,0 +1,13 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "support",
+            "message": "переговорил таки с разработчиками, относительно не менялся скрипт"
+        },
+        {
+            "sender": "user",
+            "message": "отлично."
+        }
+    ]
+}

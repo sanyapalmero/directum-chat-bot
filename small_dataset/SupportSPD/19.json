@@ -1,0 +1,17 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "попробовал с правами, все тоже самое и самое главное все права сохранились)"
+        },
+        {
+            "sender": "support",
+            "message": "я думаю тогда лучше обращение зарегать"
+        },
+        {
+            "sender": "user",
+            "message": "ок"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "привет проблема с отметкой работ давай я голосом расскажу и может покажу, если нужно будет"
+        },
+        {
+            "sender": "support",
+            "message": "ок"
+        },
+        {
+            "sender": "user",
+            "message": "звоню?"
+        }
+    ]
+}

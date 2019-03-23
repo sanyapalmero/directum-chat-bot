@@ -1,0 +1,13 @@
+{
+    "support": "support synerdocs",
+    "messages": [
+        {
+            "sender": "support",
+            "message": "ура! спасибо!!!! мы счастливы."
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

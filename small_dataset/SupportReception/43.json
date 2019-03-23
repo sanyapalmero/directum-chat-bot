@@ -1,0 +1,13 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "вышла"
+        },
+        {
+            "sender": "support",
+            "message": "проверь"
+        }
+    ]
+}

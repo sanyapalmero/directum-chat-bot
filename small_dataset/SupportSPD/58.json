@@ -1,0 +1,21 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "тут"
+        },
+        {
+            "sender": "support",
+            "message": "здесь"
+        },
+        {
+            "sender": "user",
+            "message": "какую роль надо дать пользователю на клабе чтобы он в бз смог зайти подписчик с абонементом"
+        },
+        {
+            "sender": "support",
+            "message": "верно"
+        }
+    ]
+}

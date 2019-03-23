@@ -1,0 +1,21 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет все службы, кроме линка в дисконекте, вы в курсе?"
+        },
+        {
+            "sender": "support",
+            "message": "привет. ага в курсе"
+        },
+        {
+            "sender": "user",
+            "message": "так и задумано, день сисадмина?"
+        },
+        {
+            "sender": "support",
+            "message": "нет) сломалось просто"
+        }
+    ]
+}

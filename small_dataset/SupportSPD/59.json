@@ -1,0 +1,69 @@
+{
+    "support": "support spd",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. не могу найти документацию по в тч тут поставка по <url> поделитесь, пожалуйста"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "описание тр"
+        },
+        {
+            "sender": "support",
+            "message": "ага)"
+        },
+        {
+            "sender": "support",
+            "message": "она в твоей ссылке в архиве"
+        },
+        {
+            "sender": "user",
+            "message": "оо"
+        },
+        {
+            "sender": "support",
+            "message": "в папке рудз"
+        },
+        {
+            "sender": "user",
+            "message": "ничо не понял у меня мб прав нет( показывает только дистрибутива показать?"
+        },
+        {
+            "sender": "support",
+            "message": "нет подожди через контекстное меню открой карточку любого из дистрибов"
+        },
+        {
+            "sender": "user",
+            "message": "есть"
+        },
+        {
+            "sender": "support",
+            "message": "там будет написано \"имя файла\""
+        },
+        {
+            "sender": "user",
+            "message": "кнопка открыть?"
+        },
+        {
+            "sender": "support",
+            "message": "нажми открыть дэ откроется архив в нём всё есть"
+        },
+        {
+            "sender": "user",
+            "message": "о, лайфхак"
+        },
+        {
+            "sender": "support",
+            "message": ""
+        },
+        {
+            "sender": "user",
+            "message": "спасибо)"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "говорят, что в ближайшие месяц-два планируют сконвертироваться"
+        },
+        {
+            "sender": "support",
+            "message": "спасибо"
+        },
+        {
+            "sender": "user",
+            "message": "пожалуйста"
+        }
+    ]
+}

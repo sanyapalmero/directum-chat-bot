@@ -1,0 +1,25 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет"
+        },
+        {
+            "sender": "support",
+            "message": "привет"
+        },
+        {
+            "sender": "user",
+            "message": "у нас тут на этаже зернышки кофе кончились можно их как то где то взять?"
+        },
+        {
+            "sender": "support",
+            "message": "на ресепшене"
+        },
+        {
+            "sender": "user",
+            "message": "ок ща приду"
+        }
+    ]
+}

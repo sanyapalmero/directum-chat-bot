@@ -1,0 +1,13 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. проблема"
+        },
+        {
+            "sender": "support",
+            "message": "всё пока!"
+        }
+    ]
+}

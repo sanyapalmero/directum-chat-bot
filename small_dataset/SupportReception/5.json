@@ -1,0 +1,13 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "приветик! портал показывает, что я в отпуске <url> <url> обращение я оформила. порталу не верьте)))"
+        },
+        {
+            "sender": "support",
+            "message": "спасибо!"
+        }
+    ]
+}

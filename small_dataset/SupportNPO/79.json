@@ -1,0 +1,33 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет! не могу открыть документ пишет, что якобы создана локальная копия, но при удалении ее пишет, что занят процессом"
+        },
+        {
+            "sender": "support",
+            "message": "привет может опишешь поподробней?"
+        },
+        {
+            "sender": "user",
+            "message": "давай лучше покажу вот"
+        },
+        {
+            "sender": "support",
+            "message": "вау, так быстро..."
+        },
+        {
+            "sender": "user",
+            "message": "сейчас"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо:)"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

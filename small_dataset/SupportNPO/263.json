@@ -1,0 +1,33 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "<url> говорит неправильное имя или пароль, хотя ввожу правлиьно вроде"
+        },
+        {
+            "sender": "support",
+            "message": "с доменом?"
+        },
+        {
+            "sender": "user",
+            "message": "нет"
+        },
+        {
+            "sender": "support",
+            "message": "нужно вводить с"
+        },
+        {
+            "sender": "user",
+            "message": "так?"
+        },
+        {
+            "sender": "support",
+            "message": "да"
+        },
+        {
+            "sender": "user",
+            "message": "о вышло!"
+        }
+    ]
+}

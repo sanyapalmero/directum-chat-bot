@@ -1,0 +1,41 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, после смены компа, не могу настроить почту пишет отсутствует подключение к"
+        },
+        {
+            "sender": "support",
+            "message": "привет а что ты настраиваешь?"
+        },
+        {
+            "sender": "user",
+            "message": "щгедщщл первичный запуск"
+        },
+        {
+            "sender": "support",
+            "message": "а офис какой версии?"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        },
+        {
+            "sender": "support",
+            "message": "а разрядность?"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        },
+        {
+            "sender": "support",
+            "message": "запусти"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

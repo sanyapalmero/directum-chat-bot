@@ -1,0 +1,29 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. сегодня веб доступ к ауре не работает? на портал по крайней мере не заходит у меня"
+        },
+        {
+            "sender": "support",
+            "message": "привет уже работает портал не работает"
+        },
+        {
+            "sender": "user",
+            "message": "а можно тогда ссылку на веб ауру? я через портал заходил раньше"
+        },
+        {
+            "sender": "support",
+            "message": "<url>"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "а блоги скоро заработают?"
+        },
+        {
+            "sender": "support",
+            "message": "пока не понятно, т.к. там ошибка данных, занимаемся восстановлением"
+        },
+        {
+            "sender": "user",
+            "message": ""
+        }
+    ]
+}

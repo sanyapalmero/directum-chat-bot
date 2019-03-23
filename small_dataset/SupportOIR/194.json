@@ -1,0 +1,25 @@
+{
+    "support": "support oir",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет. утвердите пр, пожалуйста <url> <url> там сплошная косметика исправляла орфографию."
+        },
+        {
+            "sender": "support",
+            "message": "привет. пару минут"
+        },
+        {
+            "sender": "support",
+            "message": "утвердил"
+        },
+        {
+            "sender": "user",
+            "message": "спасибо"
+        },
+        {
+            "sender": "support",
+            "message": "пожалуйста"
+        }
+    ]
+}

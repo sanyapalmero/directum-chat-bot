@@ -1,0 +1,17 @@
+{
+    "support": "support orpb",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "привет, задачку отправлял вам, по вопросу с клуба, посмотрите пожалуйста"
+        },
+        {
+            "sender": "support",
+            "message": "привет. чуть позже."
+        },
+        {
+            "sender": "support",
+            "message": "ответил."
+        }
+    ]
+}

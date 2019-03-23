@@ -3,6 +3,7 @@ import json
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+
 def create_np_array_from_vector(vector):
     vec_arr = vector.toarray()
     vec_list = []
@@ -34,7 +35,7 @@ reception_msg = []
 npo_msg = []
 
 reception_directory = "small_dataset/SupportReception/"
-npo_directory = "small_dataset/SupportNpO/"
+npo_directory = "small_dataset/SupportNPO/"
 
 read_directory(reception_directory, reception_msg)
 read_directory(npo_directory, npo_msg)

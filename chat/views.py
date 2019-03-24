@@ -1,7 +1,14 @@
-from django.shortcuts import render, redirect
-from django.views import View
+import json
+import os
+
+from chatterbot import ChatBot
+from chatterbot.trainers import ListTrainer
 from django.http import JsonResponse
+from django.shortcuts import redirect, render
+from django.views import View
+
 from .models import Support
+from .bot import learn
 
 class IndexView(View):
     """Главная страница"""
@@ -18,12 +25,13 @@ class ChatView(View):
 
     def post(self, request):
         user_message = request.POST['user-message']
-        if user_message == "Привет!":
-            return JsonResponse({'UserMessage':user_message, 'BotMessage':'Привет :)'})
-        elif user_message == "Как дела?":
-            return JsonResponse({'UserMessage':user_message, 'BotMessage':'Замечательно!'})
-        else:
-            return JsonResponse({'UserMessage':user_message, 'BotMessage':'Непонятный для меня запрос :('})
+        learn()
+        chatbot = ChatBot("Jimmy")
+        response = chatbot.get_response(user_message)
+
+        #bot_message = analysis(user_message)
+        return JsonResponse({'UserMessage':user_message, 'BotMessage':str(response)})
+
 
 
 class FaqView(View):

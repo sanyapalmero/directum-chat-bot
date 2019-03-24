@@ -22,8 +22,8 @@ def read_directory(directory, res_list):
     for filename in os.listdir(directory):
         try:
             res_list.extend(extract_messages('{0}/{1}'.format(directory,filename)))
-        except:
-            print('Some error in extracting')
+        except Exception as e:
+            print(e)
 
 def vectorize(common_list):
     vectorizer = TfidfVectorizer()

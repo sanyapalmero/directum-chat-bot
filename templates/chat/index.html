@@ -1,19 +1,83 @@
-{% extends "base.html" %}
-
-{% block content %}
-<!-- <div style="text-align:center" class="starter-template">
-    <h2>Наш чат-бот ответит на все ваши вопросы!</h2>
-    <h3>Опишите проблему и чат-бот подскажет вам, что делать дальше</h3>
-</div> -->
-<section class="promo">
-    <div class="left-column">
-        <h1 class="main-title">
-            Interactive chat-bot
-        </h1>
-        <p class="details">
-            The bot receives user messages, analyzes them and issues a response that matches the user's request.
-        </p>
-        <a class="btn-link" href="{% url 'chat:chat' %}">Let's go!</a>
-    </div>
-</section>
-{% endblock %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Jimmy, the robot:)</title>
+	<link rel="stylesheet" href="static/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<script src="{% static '/bootstrap/js/jquery.js' %}"></script>
+    <script src="{% static '/bootstrap/js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/site.js' %}"></script>
+</head>
+<body>
+	<header>
+		<div class="top-line">
+			<div class="centurion">
+				<div class="logo">
+					<img src="static/img/logo.svg" alt="">
+				</div>
+				<nav class="top-navigation">
+					<ul>
+						<li><a href="index.html">Главная</a></li>
+						<li><a href="#first">Начать общение</a></li>
+						<li><a href="#second">Саппорты</a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<div class="slider">
+			<div class="centurion">
+				<div class="left-content">
+					<h1>Возник вопрос?!<br>Задай его Джимми!</h1>
+					<a href="#first"><button>Начать общение</button></a>
+				</div>
+				<div class="right-content">
+					<img src="static/img/final-bot.svg" alt="Jimmy">
+				</div>
+			</div>
+		</div>
+	</header>
+	<main>
+		<div class="clearfix"></div>
+		<div class="chat">
+			<div class="centurion">
+				<h2 id="first">Задайте интересующий вас вопрос</h2>
+				<div class="chat-window disable-scrollbars">
+				    <div class="message">
+				        <div class="bot-message">
+				            <p>
+				                Бот: Вас приветствует бот Джимми :)
+				                Введите, пожалуйста, интересущий вас вопрос ниже, и я постараюсь на него ответить.
+				            </p>
+				        </div>
+				    </div>
+				</div>
+				<div class="input-group">
+					{% csrf_token %}
+					<input id="user-message" name="user-message" class="form-control" placeholder="Write a message">
+					<span class="input-group-btn">
+						<button id="send-message" class="btn btn-primary" type="submit">Отправить</button>
+					</span>
+				</div>
+				
+				<!-- <div class="chat-intro">
+					<p class="chat-bot-message">
+						dfgdfgddfgdfgddfgdfgddfgdfgddfgdfgddfgdfgddfgdfgddfgdfgd
+					</p>
+				</div>
+				<input class="input" placeholder="Write a message" type="text"><input class="button" type="submit" value="Отправить"> -->
+			</div>
+		</div>
+		<div class="support">
+			<div class="centurion">
+				<h2 id="second">Supports</h2>
+				
+			</div>
+		</div>
+	</main>
+	<footer>
+		
+	</footer>
+</body>
+</html>

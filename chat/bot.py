@@ -8,9 +8,15 @@ def extract_messages(filename):
     with open(filename, encoding='utf8') as json_file:
         data = json.load(json_file)
         message = ""
+        flag = 0
         for x in data['messages']:
-            if x["sender"]=='user' :
-                message += x["message"]
+            if flag == 0:
+                if x["sender"]=='user' :
+                    message += x["message"]
+                    flag = 1
+                if x["sender"]=='support':
+                    flag = 0
+            
 
         #message.append(filename)
         return message

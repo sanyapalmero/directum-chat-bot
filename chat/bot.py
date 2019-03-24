@@ -28,8 +28,8 @@ def read_directory(directory, res_list):
             messages += extract_messages('{0}/{1}'.format(directory,filename))
             res_list.append(messages) 
             res_list.append(directory)
-            print(res_list)
-            print("---------------------")
+            #print(res_list)
+            #print("---------------------")
         except Exception as e:
             print(e)
 
@@ -70,8 +70,8 @@ def learn():
     # upd_ds(dir7)
     # upd_ds(dir8)
 
-    upd_ds(dir9)
-    upd_ds(dir10)
+    #upd_ds(dir9)
+    #upd_ds(dir10)
 
     # conversation1 = []
     # conversation2 = []

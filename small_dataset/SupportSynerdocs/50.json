@@ -3,19 +3,19 @@
     "messages": [
         {
             "sender": "user",
-            "message": "саппорт"
+            "message": "\u0441\u0430\u043f\u043f\u043e\u0440\u0442"
         },
         {
             "sender": "support",
-            "message": "слушаю"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "абонент?"
+            "message": "\u0430\u0431\u043e\u043d\u0435\u043d\u0442?"
         },
         {
             "sender": "support",
-            "message": "нет"
+            "message": "small_dataset/SupportSynerdocs/"
         }
     ]
 }

@@ -3,71 +3,71 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет у меня не очень большой вопрос, буквально минут на"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0443 \u043c\u0435\u043d\u044f \u043d\u0435 \u043e\u0447\u0435\u043d\u044c \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0432\u043e\u043f\u0440\u043e\u0441, \u0431\u0443\u043a\u0432\u0430\u043b\u044c\u043d\u043e \u043c\u0438\u043d\u0443\u0442 \u043d\u0430"
         },
         {
             "sender": "support",
-            "message": "как раз через мин уйду на ретро задавай"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "есть табличка в ней есть поле оно содержит имя стадии жц документа октуда по нему можно вытащить наименование? то есть имя там например, а в списке документов отображается как \"истёк\" откуда это \"истёк\" можно вытащить?"
+            "message": "\u0435\u0441\u0442\u044c \u0442\u0430\u0431\u043b\u0438\u0447\u043a\u0430 \u0432 \u043d\u0435\u0439 \u0435\u0441\u0442\u044c \u043f\u043e\u043b\u0435 \u043e\u043d\u043e \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0438\u043c\u044f \u0441\u0442\u0430\u0434\u0438\u0438 \u0436\u0446 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430 \u043e\u043a\u0442\u0443\u0434\u0430 \u043f\u043e \u043d\u0435\u043c\u0443 \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0442\u0430\u0449\u0438\u0442\u044c \u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435? \u0442\u043e \u0435\u0441\u0442\u044c \u0438\u043c\u044f \u0442\u0430\u043c \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0430 \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u0435\u0442\u0441\u044f \u043a\u0430\u043a \"\u0438\u0441\u0442\u0451\u043a\" \u043e\u0442\u043a\u0443\u0434\u0430 \u044d\u0442\u043e \"\u0438\u0441\u0442\u0451\u043a\" \u043c\u043e\u0436\u043d\u043e \u0432\u044b\u0442\u0430\u0449\u0438\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": "так, это скорее всего поле с названием типа"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "никакой локализации"
+            "message": "\u043d\u0438\u043a\u0430\u043a\u043e\u0439 \u043b\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438"
         },
         {
             "sender": "support",
-            "message": "а виды жц это же справчоник"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "так"
+            "message": "\u0442\u0430\u043a"
         },
         {
             "sender": "support",
-            "message": "значит"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "так это..."
+            "message": "\u0442\u0430\u043a \u044d\u0442\u043e..."
         },
         {
             "sender": "support",
-            "message": "ща"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "там же все стадии в схеме хранятся"
+            "message": "\u0442\u0430\u043c \u0436\u0435 \u0432\u0441\u0435 \u0441\u0442\u0430\u0434\u0438\u0438 \u0432 \u0441\u0445\u0435\u043c\u0435 \u0445\u0440\u0430\u043d\u044f\u0442\u0441\u044f"
         },
         {
             "sender": "support",
-            "message": "смотри, вид документа имеет вид жц"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "ага"
+            "message": "\u0430\u0433\u0430"
         },
         {
             "sender": "support",
-            "message": "схема то тоже где-то лежит если толкьо не в а то придется парсить"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "ой вей, как там всё страшно всё, нашла спасибо)"
+            "message": "\u043e\u0439 \u0432\u0435\u0439, \u043a\u0430\u043a \u0442\u0430\u043c \u0432\u0441\u0451 \u0441\u0442\u0440\u0430\u0448\u043d\u043e \u0432\u0441\u0451, \u043d\u0430\u0448\u043b\u0430 \u0441\u043f\u0430\u0441\u0438\u0431\u043e)"
         },
         {
             "sender": "support",
-            "message": "подробности расскажешь? буду хоть знать"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "угум"
+            "message": "\u0443\u0433\u0443\u043c"
         }
     ]
 }

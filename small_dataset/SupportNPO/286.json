@@ -3,19 +3,19 @@
     "messages": [
         {
             "sender": "user",
-            "message": "что-то этот проксик тоже не работает"
+            "message": "\u0447\u0442\u043e-\u0442\u043e \u044d\u0442\u043e\u0442 \u043f\u0440\u043e\u043a\u0441\u0438\u043a \u0442\u043e\u0436\u0435 \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442"
         },
         {
             "sender": "support",
-            "message": "другого к сожалениею нет"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "нашим фаерволом не может блокироваться?"
+            "message": "\u043d\u0430\u0448\u0438\u043c \u0444\u0430\u0435\u0440\u0432\u043e\u043b\u043e\u043c \u043d\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f?"
         },
         {
             "sender": "support",
-            "message": "нет. это на стороне провайдера"
+            "message": "small_dataset/SupportNPO/"
         }
     ]
 }

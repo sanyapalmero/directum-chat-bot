@@ -3,51 +3,51 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет, у меня не приходят письма на почту"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442, \u0443 \u043c\u0435\u043d\u044f \u043d\u0435 \u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0442 \u043f\u0438\u0441\u044c\u043c\u0430 \u043d\u0430 \u043f\u043e\u0447\u0442\u0443"
         },
         {
             "sender": "support",
-            "message": "привет какие?"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "от заказчика внутри не проверял"
+            "message": "\u043e\u0442 \u0437\u0430\u043a\u0430\u0437\u0447\u0438\u043a\u0430 \u0432\u043d\u0443\u0442\u0440\u0438 \u043d\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u043b"
         },
         {
             "sender": "support",
-            "message": "от какого?"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "отправка была и сегодня"
+            "message": "\u043e\u0442\u043f\u0440\u0430\u0432\u043a\u0430 \u0431\u044b\u043b\u0430 \u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f"
         },
         {
             "sender": "support",
-            "message": "возможно в спам попало. раньше с этого адреса письма приходили?"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "да, раньше все ок было"
+            "message": "\u0434\u0430, \u0440\u0430\u043d\u044c\u0448\u0435 \u0432\u0441\u0435 \u043e\u043a \u0431\u044b\u043b\u043e"
         },
         {
             "sender": "support",
-            "message": "посмотрим не сервере но правда только через полчаса где-то"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "ок, спасиб"
+            "message": "\u043e\u043a, \u0441\u043f\u0430\u0441\u0438\u0431"
         },
         {
             "sender": "support",
-            "message": "посмотрели, сегодняшнее письмо действительно попало в спам, переслали его тебе. но за е не было задержанных писем либо он не отправил или ищи во входящих"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "ага, письмо увидел, спасибо большое! по числу уточю у них."
+            "message": "\u0430\u0433\u0430, \u043f\u0438\u0441\u044c\u043c\u043e \u0443\u0432\u0438\u0434\u0435\u043b, \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0435! \u043f\u043e \u0447\u0438\u0441\u043b\u0443 \u0443\u0442\u043e\u0447\u044e \u0443 \u043d\u0438\u0445."
         },
         {
             "sender": "support",
-            "message": "пожалуйста"
+            "message": "small_dataset/SupportNPO/"
         }
     ]
 }

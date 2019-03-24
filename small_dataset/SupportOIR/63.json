@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет есть чтонить интересное по васо после анализа полученной информации?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0435\u0441\u0442\u044c \u0447\u0442\u043e\u043d\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u0435 \u043f\u043e \u0432\u0430\u0441\u043e \u043f\u043e\u0441\u043b\u0435 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438?"
         },
         {
             "sender": "support",
-            "message": "привет, отпишу после нашего внутреннего совещания через мин"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
@@ -15,11 +15,11 @@
         },
         {
             "sender": "support",
-            "message": "обсудили,щас все зафиксирую в протоколе и разошлю <url> отпусти документ)"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "support",
-            "message": ""
+            "message": "small_dataset/SupportOIR/"
         }
     ]
 }

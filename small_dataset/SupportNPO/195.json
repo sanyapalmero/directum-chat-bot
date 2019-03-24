@@ -3,19 +3,19 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет! есть проблемка с запуском клиента это к вам или в спд?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442! \u0435\u0441\u0442\u044c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u043a\u0430 \u0441 \u0437\u0430\u043f\u0443\u0441\u043a\u043e\u043c \u043a\u043b\u0438\u0435\u043d\u0442\u0430 \u044d\u0442\u043e \u043a \u0432\u0430\u043c \u0438\u043b\u0438 \u0432 \u0441\u043f\u0434?"
         },
         {
             "sender": "support",
-            "message": "привет если именно то спд"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "понял. спасибо"
+            "message": "\u043f\u043e\u043d\u044f\u043b. \u0441\u043f\u0430\u0441\u0438\u0431\u043e"
         },
         {
             "sender": "support",
-            "message": "пожалуйста"
+            "message": "small_dataset/SupportNPO/"
         }
     ]
 }

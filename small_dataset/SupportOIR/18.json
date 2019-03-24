@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "приветик"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442\u0438\u043a"
         },
         {
             "sender": "support",
-            "message": "привет"
+            "message": "small_dataset/SupportOIR/"
         }
     ]
 }

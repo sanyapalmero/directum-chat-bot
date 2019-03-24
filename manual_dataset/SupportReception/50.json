@@ -1,0 +1,13 @@
+{
+    "support": "support reception",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442, \u0443 \u043c\u0435\u043d\u044f \u0441\u043b\u043e\u043c\u0430\u043b\u0441\u044f \u0441\u0442\u0443\u043b"
+        },
+        {
+            "sender": "support",
+            "message": "manual_dataset/SupportReception/"
+        }
+    ]
+}

@@ -3,23 +3,23 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет! <person> работает?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442! <person> \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442?"
         },
         {
             "sender": "support",
-            "message": "привет вообще работает, но пока в отпуске"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "не могу скачать с <url> почему?"
+            "message": "\u043d\u0435 \u043c\u043e\u0433\u0443 \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u0441 <url> \u043f\u043e\u0447\u0435\u043c\u0443?"
         },
         {
             "sender": "support",
-            "message": "у нас проблемы с сетью сейчас, скорее всего из-за этого"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "ок, спасибо."
+            "message": "\u043e\u043a, \u0441\u043f\u0430\u0441\u0438\u0431\u043e."
         }
     ]
 }

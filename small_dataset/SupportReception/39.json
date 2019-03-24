@@ -3,43 +3,43 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет а у вас есть дырокол?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0430 \u0443 \u0432\u0430\u0441 \u0435\u0441\u0442\u044c \u0434\u044b\u0440\u043e\u043a\u043e\u043b?"
         },
         {
             "sender": "support",
-            "message": "да привет упс забрали"
+            "message": "small_dataset/SupportReception/"
         },
         {
             "sender": "user",
-            "message": "и не вернули?"
+            "message": "\u0438 \u043d\u0435 \u0432\u0435\u0440\u043d\u0443\u043b\u0438?"
         },
         {
             "sender": "support",
-            "message": "блин вот так бывает"
+            "message": "small_dataset/SupportReception/"
         },
         {
             "sender": "user",
-            "message": "известно кто забрал?"
+            "message": "\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u043a\u0442\u043e \u0437\u0430\u0431\u0440\u0430\u043b?"
         },
         {
             "sender": "support",
-            "message": "нет)"
+            "message": "small_dataset/SupportReception/"
         },
         {
             "sender": "user",
-            "message": "прикольно))"
+            "message": "\u043f\u0440\u0438\u043a\u043e\u043b\u044c\u043d\u043e))"
         },
         {
             "sender": "support",
-            "message": "есть в <person> <person> <person> у вас есть дырокол? <person> <person> да в бухг обратись туда"
+            "message": "small_dataset/SupportReception/"
         },
         {
             "sender": "user",
-            "message": "окей, спасибо))"
+            "message": "\u043e\u043a\u0435\u0439, \u0441\u043f\u0430\u0441\u0438\u0431\u043e))"
         },
         {
             "sender": "support",
-            "message": "но они могут скоро уйти) так что не тяни"
+            "message": "small_dataset/SupportReception/"
         }
     ]
 }

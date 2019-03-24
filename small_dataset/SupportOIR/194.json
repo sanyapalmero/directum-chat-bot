@@ -3,23 +3,23 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет. утвердите пр, пожалуйста <url> <url> там сплошная косметика исправляла орфографию."
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442. \u0443\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435 \u043f\u0440, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 <url> <url> \u0442\u0430\u043c \u0441\u043f\u043b\u043e\u0448\u043d\u0430\u044f \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u043a\u0430 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u044f\u043b\u0430 \u043e\u0440\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u044e."
         },
         {
             "sender": "support",
-            "message": "привет. пару минут"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "support",
-            "message": "утвердил"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "спасибо"
+            "message": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e"
         },
         {
             "sender": "support",
-            "message": "пожалуйста"
+            "message": "small_dataset/SupportOIR/"
         }
     ]
 }

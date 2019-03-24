@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет! не работают сводные таблицы где читать про это"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442! \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442 \u0441\u0432\u043e\u0434\u043d\u044b\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u0433\u0434\u0435 \u0447\u0438\u0442\u0430\u0442\u044c \u043f\u0440\u043e \u044d\u0442\u043e"
         },
         {
             "sender": "support",
-            "message": "привет <url> <url>"
+            "message": "small_dataset/SupportNPO/"
         }
     ]
 }

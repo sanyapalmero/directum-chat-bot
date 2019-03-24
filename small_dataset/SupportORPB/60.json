@@ -3,19 +3,19 @@
     "messages": [
         {
             "sender": "support",
-            "message": "привет. уровень совместимости какой у базы был?"
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "user",
-            "message": "нет такой информации, уточнить?"
+            "message": "\u043d\u0435\u0442 \u0442\u0430\u043a\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438, \u0443\u0442\u043e\u0447\u043d\u0438\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": "да, уточни."
+            "message": "small_dataset/SupportORPB/"
         },
         {
             "sender": "support",
-            "message": "хп требует уровень совместимости возможно он у них был ниже, это как вариант."
+            "message": "small_dataset/SupportORPB/"
         }
     ]
 }

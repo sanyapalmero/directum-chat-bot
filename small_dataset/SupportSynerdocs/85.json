@@ -3,27 +3,27 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет, уточни плиз скем настроен роуминг по след. компаниям: это инн"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442, \u0443\u0442\u043e\u0447\u043d\u0438 \u043f\u043b\u0438\u0437 \u0441\u043a\u0435\u043c \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043d \u0440\u043e\u0443\u043c\u0438\u043d\u0433 \u043f\u043e \u0441\u043b\u0435\u0434. \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f\u043c: \u044d\u0442\u043e \u0438\u043d\u043d"
         },
         {
             "sender": "support",
-            "message": "привет"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "support",
-            "message": "не наш абонент, а тензора. роуминг с марком."
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "а по соатльынм"
+            "message": "\u0430 \u043f\u043e \u0441\u043e\u0430\u0442\u043b\u044c\u044b\u043d\u043c"
         },
         {
             "sender": "support",
-            "message": "это абонент тензора роуминг с марком тоже тензор и тоже марк"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "оки, спасиб"
+            "message": "\u043e\u043a\u0438, \u0441\u043f\u0430\u0441\u0438\u0431"
         }
     ]
 }

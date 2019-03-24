@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "а блоги скоро заработают?"
+            "message": "\u0430 \u0431\u043b\u043e\u0433\u0438 \u0441\u043a\u043e\u0440\u043e \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u044e\u0442?"
         },
         {
             "sender": "support",
-            "message": "пока не понятно, т.к. там ошибка данных, занимаемся восстановлением"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",

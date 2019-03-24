@@ -3,27 +3,27 @@
     "messages": [
         {
             "sender": "user",
-            "message": "машина тут уже?"
+            "message": "\u043c\u0430\u0448\u0438\u043d\u0430 \u0442\u0443\u0442 \u0443\u0436\u0435?"
         },
         {
             "sender": "support",
-            "message": "да"
+            "message": "small_dataset/SupportReception/"
         },
         {
             "sender": "user",
-            "message": "ок"
+            "message": "\u043e\u043a"
         },
         {
             "sender": "support",
-            "message": "ключи занести или идете?"
+            "message": "small_dataset/SupportReception/"
         },
         {
             "sender": "user",
-            "message": "пойдем минут через"
+            "message": "\u043f\u043e\u0439\u0434\u0435\u043c \u043c\u0438\u043d\u0443\u0442 \u0447\u0435\u0440\u0435\u0437"
         },
         {
             "sender": "support",
-            "message": "ок"
+            "message": "small_dataset/SupportReception/"
         }
     ]
 }

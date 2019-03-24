@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет. проблема"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442. \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430"
         },
         {
             "sender": "support",
-            "message": "всё пока!"
+            "message": "small_dataset/SupportORPB/"
         }
     ]
 }

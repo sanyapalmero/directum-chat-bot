@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет. в встречаемся?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442. \u0432 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u043c\u0441\u044f?"
         },
         {
             "sender": "support",
-            "message": "ага"
+            "message": "small_dataset/SupportMKDO/"
         }
     ]
 }

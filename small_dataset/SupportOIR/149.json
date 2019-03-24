@@ -3,43 +3,43 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет. открываю в веб-доступе техкас карточку обращения, общение пустое. используется контрол веб-браузер, временный -файл открывается, текст в нем есть. что можно еще проверить?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442. \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e \u0432 \u0432\u0435\u0431-\u0434\u043e\u0441\u0442\u0443\u043f\u0435 \u0442\u0435\u0445\u043a\u0430\u0441 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0443 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f, \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u043f\u0443\u0441\u0442\u043e\u0435. \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043a\u043e\u043d\u0442\u0440\u043e\u043b \u0432\u0435\u0431-\u0431\u0440\u0430\u0443\u0437\u0435\u0440, \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 -\u0444\u0430\u0439\u043b \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442\u0441\u044f, \u0442\u0435\u043a\u0441\u0442 \u0432 \u043d\u0435\u043c \u0435\u0441\u0442\u044c. \u0447\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0435\u0449\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": "привет это в рабочем?"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "техкаснподевразр"
+            "message": "\u0442\u0435\u0445\u043a\u0430\u0441\u043d\u043f\u043e\u0434\u0435\u0432\u0440\u0430\u0437\u0440"
         },
         {
             "sender": "support",
-            "message": "смотри скриптовые ошибки заполнение в идет"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "где эти ошибки пишутся?"
+            "message": "\u0433\u0434\u0435 \u044d\u0442\u0438 \u043e\u0448\u0438\u0431\u043a\u0438 \u043f\u0438\u0448\u0443\u0442\u0441\u044f?"
         },
         {
             "sender": "support",
-            "message": "консоль браузера"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "я там не увидела"
+            "message": "\u044f \u0442\u0430\u043c \u043d\u0435 \u0443\u0432\u0438\u0434\u0435\u043b\u0430"
         },
         {
             "sender": "support",
-            "message": "то есть ошибок нет? чето менялось в прикладной или веб разработке?"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "я сделала справочник доступным для редактирования в разработке ничего не менялось"
+            "message": "\u044f \u0441\u0434\u0435\u043b\u0430\u043b\u0430 \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u043c \u0434\u043b\u044f \u0440\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043c\u0435\u043d\u044f\u043b\u043e\u0441\u044c"
         },
         {
             "sender": "support",
-            "message": "скинь ссылку на сайт веб доступа"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
@@ -47,87 +47,87 @@
         },
         {
             "sender": "support",
-            "message": "хмм у меня общение заполнено я под"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "пробую в др браузере, тоже пустое"
+            "message": "\u043f\u0440\u043e\u0431\u0443\u044e \u0432 \u0434\u0440 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435, \u0442\u043e\u0436\u0435 \u043f\u0443\u0441\u0442\u043e\u0435"
         },
         {
             "sender": "support",
-            "message": "картинки только незагружены, но это права у вас не настроены а представление выбрано техкас?"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "у меня просто текст"
+            "message": "\u0443 \u043c\u0435\u043d\u044f \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u0435\u043a\u0441\u0442"
         },
         {
             "sender": "support",
-            "message": "лучше расшарь"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "представление нигде не указывала"
+            "message": "\u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043d\u0438\u0433\u0434\u0435 \u043d\u0435 \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u043b\u0430"
         },
         {
             "sender": "support",
-            "message": "посмотри какой выбран текущий веб модуль"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "техкас"
+            "message": "\u0442\u0435\u0445\u043a\u0430\u0441"
         },
         {
             "sender": "support",
-            "message": "я запрос пропустила?"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "не поняла последнее веб-модуль техкас"
+            "message": "\u043d\u0435 \u043f\u043e\u043d\u044f\u043b\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0435 \u0432\u0435\u0431-\u043c\u043e\u0434\u0443\u043b\u044c \u0442\u0435\u0445\u043a\u0430\u0441"
         },
         {
             "sender": "support",
-            "message": "я думала ты экран хотела расшарить"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "открываю карточку задания, из нее карточку обращения"
+            "message": "\u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0443 \u0437\u0430\u0434\u0430\u043d\u0438\u044f, \u0438\u0437 \u043d\u0435\u0435 \u043a\u0430\u0440\u0442\u043e\u0447\u043a\u0443 \u043e\u0431\u0440\u0430\u0449\u0435\u043d\u0438\u044f"
         },
         {
             "sender": "support",
-            "message": "это же другой справочник обращений для него не сделано только для справочника обращения в службу поддержки"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "вот что не сделано?"
+            "message": "\u0432\u043e\u0442 \u0447\u0442\u043e \u043d\u0435 \u0441\u0434\u0435\u043b\u0430\u043d\u043e?"
         },
         {
             "sender": "support",
-            "message": "заполнение общения в карточке в веб модуля"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "в десктопе заполняется а... надо еще в скрипте заполнять?"
+            "message": "\u0432 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0435 \u0437\u0430\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f \u0430... \u043d\u0430\u0434\u043e \u0435\u0449\u0435 \u0432 \u0441\u043a\u0440\u0438\u043f\u0442\u0435 \u0437\u0430\u043f\u043e\u043b\u043d\u044f\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": ""
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "я думала само заработает"
+            "message": "\u044f \u0434\u0443\u043c\u0430\u043b\u0430 \u0441\u0430\u043c\u043e \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442"
         },
         {
             "sender": "support",
-            "message": "контрол подтянется автоматом только если ведет на внешний сайт"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "спс"
+            "message": "\u0441\u043f\u0441"
         },
         {
             "sender": "support",
-            "message": "пожта"
+            "message": "small_dataset/SupportOIR/"
         }
     ]
 }

@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "support",
-            "message": "переговорил таки с разработчиками, относительно не менялся скрипт"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "отлично."
+            "message": "\u043e\u0442\u043b\u0438\u0447\u043d\u043e."
         }
     ]
 }

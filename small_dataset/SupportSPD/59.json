@@ -3,67 +3,67 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет. не могу найти документацию по в тч тут поставка по <url> поделитесь, пожалуйста"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442. \u043d\u0435 \u043c\u043e\u0433\u0443 \u043d\u0430\u0439\u0442\u0438 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044e \u043f\u043e \u0432 \u0442\u0447 \u0442\u0443\u0442 \u043f\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u043f\u043e <url> \u043f\u043e\u0434\u0435\u043b\u0438\u0442\u0435\u0441\u044c, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430"
         },
         {
             "sender": "support",
-            "message": "привет"
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "описание тр"
+            "message": "\u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0442\u0440"
         },
         {
             "sender": "support",
-            "message": "ага)"
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "support",
-            "message": "она в твоей ссылке в архиве"
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "оо"
+            "message": "\u043e\u043e"
         },
         {
             "sender": "support",
-            "message": "в папке рудз"
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "ничо не понял у меня мб прав нет( показывает только дистрибутива показать?"
+            "message": "\u043d\u0438\u0447\u043e \u043d\u0435 \u043f\u043e\u043d\u044f\u043b \u0443 \u043c\u0435\u043d\u044f \u043c\u0431 \u043f\u0440\u0430\u0432 \u043d\u0435\u0442( \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0434\u0438\u0441\u0442\u0440\u0438\u0431\u0443\u0442\u0438\u0432\u0430 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": "нет подожди через контекстное меню открой карточку любого из дистрибов"
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "есть"
+            "message": "\u0435\u0441\u0442\u044c"
         },
         {
             "sender": "support",
-            "message": "там будет написано \"имя файла\""
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "кнопка открыть?"
+            "message": "\u043a\u043d\u043e\u043f\u043a\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": "нажми открыть дэ откроется архив в нём всё есть"
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "о, лайфхак"
+            "message": "\u043e, \u043b\u0430\u0439\u0444\u0445\u0430\u043a"
         },
         {
             "sender": "support",
-            "message": ""
+            "message": "small_dataset/SupportSPD/"
         },
         {
             "sender": "user",
-            "message": "спасибо)"
+            "message": "\u0441\u043f\u0430\u0441\u0438\u0431\u043e)"
         }
     ]
 }

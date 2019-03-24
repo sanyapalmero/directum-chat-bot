@@ -3,95 +3,95 @@
     "messages": [
         {
             "sender": "user",
-            "message": "были сегодня ошибки от лифанова <person> си"
+            "message": "\u0431\u044b\u043b\u0438 \u0441\u0435\u0433\u043e\u0434\u043d\u044f \u043e\u0448\u0438\u0431\u043a\u0438 \u043e\u0442 \u043b\u0438\u0444\u0430\u043d\u043e\u0432\u0430 <person> \u0441\u0438"
         },
         {
             "sender": "user",
-            "message": "привет"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442"
         },
         {
             "sender": "support",
-            "message": "привет на этой неделе от лифановой ошибок не было"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "уверен? а я что то другое уже хотел спроить"
+            "message": "\u0443\u0432\u0435\u0440\u0435\u043d? \u0430 \u044f \u0447\u0442\u043e \u0442\u043e \u0434\u0440\u0443\u0433\u043e\u0435 \u0443\u0436\u0435 \u0445\u043e\u0442\u0435\u043b \u0441\u043f\u0440\u043e\u0438\u0442\u044c"
         },
         {
             "sender": "support",
-            "message": "а по вельветшуз одна есть в"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "support",
-            "message": "да, проверил всё, ошибок не падало от лифановой"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "а какая"
+            "message": "\u0430 \u043a\u0430\u043a\u0430\u044f"
         },
         {
             "sender": "support",
-            "message": "вельветшуз похоже пароль поменяли для входа в лк"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "support",
+            "message": "small_dataset/SupportSynerdocs/"
+        },
+        {
+            "sender": "user",
+            "message": "\u0434\u0430 \u0443\u0436\u0435 \u0441\u043a\u0438\u043d\u0443\u043b \u0432\u0430\u043c \u043e\u0448\u0438\u0431\u043a\u0443"
+        },
+        {
+            "sender": "support",
+            "message": "small_dataset/SupportSynerdocs/"
+        },
+        {
+            "sender": "user",
+            "message": "\u044f \u0438\u043c \u0443\u0436\u0435 \u0441\u043a\u0438\u0434\u044b\u0432\u0430\u043b"
+        },
+        {
+            "sender": "support",
+            "message": "small_dataset/SupportSynerdocs/"
+        },
+        {
+            "sender": "user",
+            "message": "\u0435\u0433\u043e \u043e\u043d\u0438 \u043d\u0435 \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u0438 \u0432\u0438\u0434\u0438\u043c\u043e \u0438\u043b\u0438 \u043f\u043e\u043b\u044c\u0437\u0430\u043a \u0434\u0440\u0443\u0433\u043e\u0439 \u043d\u0435 \u0437\u043d\u0430\u044e \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0443 \u0432\u0435\u043b\u044c\u0432\u0435\u0442 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439?"
+        },
+        {
+            "sender": "support",
+            "message": "small_dataset/SupportSynerdocs/"
+        },
+        {
+            "sender": "user",
+            "message": "\u043a\u0430\u043a\u043e\u0439 \u043b\u043e\u0433\u0438\u043d"
+        },
+        {
+            "sender": "support",
+            "message": "small_dataset/SupportSynerdocs/"
+        },
+        {
+            "sender": "user",
             "message": ""
         },
         {
-            "sender": "user",
-            "message": "да уже скинул вам ошибку"
-        },
-        {
             "sender": "support",
-            "message": "да, видел, но пароль то кто знает?"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "я им уже скидывал"
+            "message": "\u043e\u043a \u0449\u0430 \u0435\u0449\u0451 \u0440\u0430\u0437 \u0441\u043a\u0438\u043d\u0443 \u0443 \u0432\u0430\u0441 \u0436\u0435 \u0431\u044b\u043b \u0432\u0440\u043e\u0434\u0435 \u043f\u043e\u0433\u043e\u0434\u0438 \u0442\u0430\u043a \u0442\u044b \u043c\u043d\u0435 \u0438 \u0441\u043a\u0438\u0434\u044b\u0432\u0430\u043b \u0448\u0430\u0431\u043b\u043e\u043d \u043f\u0438\u0441\u044c\u043c\u0430 \u043a\u0430\u043a \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u0430\u0441\u0441"
         },
         {
             "sender": "support",
-            "message": "там же на определённый надо поменять"
+            "message": "small_dataset/SupportSynerdocs/"
         },
         {
             "sender": "user",
-            "message": "его они не восстановили видимо или пользак другой не знаю сколько у вельвет пользователей?"
+            "message": "\u0432\u0438\u0434\u0438\u043c\u043e \u043e\u043d\u0438 \u044d\u0442\u043e \u0441\u0430\u043c\u043e\u0435 \u0431\u043e\u0431\u043e"
         },
         {
             "sender": "support",
-            "message": "лифанова им надо рекомендации прошлые продублировать и уточнить, поменяли ли они пароль на нужный"
-        },
-        {
-            "sender": "user",
-            "message": "какой логин"
-        },
-        {
-            "sender": "support",
-            "message": "ьгдшглщмф"
-        },
-        {
-            "sender": "user",
-            "message": ""
-        },
-        {
-            "sender": "support",
-            "message": ""
-        },
-        {
-            "sender": "user",
-            "message": "ок ща ещё раз скину у вас же был вроде погоди так ты мне и скидывал шаблон письма как восстановить пасс"
-        },
-        {
-            "sender": "support",
-            "message": "да)"
-        },
-        {
-            "sender": "user",
-            "message": "видимо они это самое бобо"
-        },
-        {
-            "sender": "support",
-            "message": "ну а кто виноват и что делать?"
+            "message": "small_dataset/SupportSynerdocs/"
         }
     ]
 }

@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "есть контакт, спасибо"
+            "message": "\u0435\u0441\u0442\u044c \u043a\u043e\u043d\u0442\u0430\u043a\u0442, \u0441\u043f\u0430\u0441\u0438\u0431\u043e"
         },
         {
             "sender": "support",
-            "message": "крутяк)"
+            "message": "small_dataset/SupportSPD/"
         }
     ]
 }

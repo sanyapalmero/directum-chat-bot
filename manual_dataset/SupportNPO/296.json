@@ -1,0 +1,13 @@
+{
+    "support": "support npo",
+    "messages": [
+        {
+            "sender": "user",
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442. \u0447\u0442\u043e-\u0442\u043e \u0441 \u0441\u0435\u0442\u044c\u044e? \u043d\u0430\u0434\u043e\u043b\u0433\u043e \u043b\u0438?"
+        },
+        {
+            "sender": "support",
+            "message": "manual_dataset/SupportNPO/"
+        }
+    ]
+}

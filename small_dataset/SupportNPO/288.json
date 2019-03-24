@@ -3,19 +3,19 @@
     "messages": [
         {
             "sender": "user",
-            "message": "добрый день! а как в веб ауре стартовать задачку на отпуск?"
+            "message": "\u0434\u043e\u0431\u0440\u044b\u0439 \u0434\u0435\u043d\u044c! \u0430 \u043a\u0430\u043a \u0432 \u0432\u0435\u0431 \u0430\u0443\u0440\u0435 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u0430\u0442\u044c \u0437\u0430\u0434\u0430\u0447\u043a\u0443 \u043d\u0430 \u043e\u0442\u043f\u0443\u0441\u043a?"
         },
         {
             "sender": "support",
-            "message": "добрый день модуль сервисы компании, оформить оплачиваемый отпуск"
+            "message": "small_dataset/SupportNPO/"
         },
         {
             "sender": "user",
-            "message": "точно, спасибо большое!"
+            "message": "\u0442\u043e\u0447\u043d\u043e, \u0441\u043f\u0430\u0441\u0438\u0431\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0435!"
         },
         {
             "sender": "support",
-            "message": "пожалуйста"
+            "message": "small_dataset/SupportNPO/"
         }
     ]
 }

@@ -3,11 +3,11 @@
     "messages": [
         {
             "sender": "user",
-            "message": "привет а бложик работает?"
+            "message": "\u043f\u0440\u0438\u0432\u0435\u0442 \u0430 \u0431\u043b\u043e\u0436\u0438\u043a \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442?"
         },
         {
             "sender": "support",
-            "message": "привет не работает"
+            "message": "small_dataset/SupportNPO/"
         }
     ]
 }

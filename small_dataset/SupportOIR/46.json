@@ -3,15 +3,15 @@
     "messages": [
         {
             "sender": "support",
-            "message": "привет, сейчас посмотрю"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "support",
-            "message": "попробуй еще раз зайти"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "работает"
+            "message": "\u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442"
         }
     ]
 }

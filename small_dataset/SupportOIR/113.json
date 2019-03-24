@@ -3,19 +3,19 @@
     "messages": [
         {
             "sender": "user",
-            "message": "серег, привет! есть пару минут подсказать?"
+            "message": "\u0441\u0435\u0440\u0435\u0433, \u043f\u0440\u0438\u0432\u0435\u0442! \u0435\u0441\u0442\u044c \u043f\u0430\u0440\u0443 \u043c\u0438\u043d\u0443\u0442 \u043f\u043e\u0434\u0441\u043a\u0430\u0437\u0430\u0442\u044c?"
         },
         {
             "sender": "support",
-            "message": "привет, давай"
+            "message": "small_dataset/SupportOIR/"
         },
         {
             "sender": "user",
-            "message": "позвоню?"
+            "message": "\u043f\u043e\u0437\u0432\u043e\u043d\u044e?"
         },
         {
             "sender": "support",
-            "message": "мин"
+            "message": "small_dataset/SupportOIR/"
         }
     ]
 }

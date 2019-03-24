@@ -25,7 +25,7 @@ class ChatView(View):
 
     def post(self, request):
         user_message = request.POST['user-message']
-        learn()
+        #learn()
         chatbot = ChatBot("Jimmy")
         response = chatbot.get_response(user_message)
 

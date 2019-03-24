@@ -7,12 +7,21 @@ from chatterbot.trainers import ListTrainer
 def extract_messages(filename):
     with open(filename, encoding='utf8') as json_file:
         data = json.load(json_file)
-        return [x['message'] for x in data['messages']]
+        message = ""
+        for x in data['messages']:
+            if x["sender"]=='user':
+                message += x["message"]
+
+        #message.append(filename)
+        print(message)
+        print("--------------")
+        return [message]
 
 def read_directory(directory, res_list):
     for filename in os.listdir(directory):
         try:
-            res_list.extend(extract_messages('{0}/{1}'.format(directory,filename)))
+            res_list.extend(extract_messages('{0}/{1}'.format(directory,filename))) 
+            res_list.append(directory)
         except Exception as e:
             print(e)
 
@@ -43,6 +52,8 @@ def learn():
     read_directory(dir6, conversation6)
     read_directory(dir7, conversation7)
     read_directory(dir8, conversation8)
+
+    print(conversation1)
 
     chatbot = ChatBot("Jimmy")
 
